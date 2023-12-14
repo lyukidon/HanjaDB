@@ -1,0 +1,12 @@
+{
+  "name": "hanjadb",
+  "version": "1.0.0",
+  "description": "한글 한자 DB forked from [NeoMindStd/HanjaDB](https://github.com/NeoMindStd/HanjaDB)",
+  "main": "parser.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
