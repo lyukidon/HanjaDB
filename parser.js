@@ -1,7 +1,5 @@
 import fs from 'fs'
 
-let result;
-
 fs.readFile("./assets/resource", "utf8", async (error, data) => {
   if (error) {
     console.error(error);
